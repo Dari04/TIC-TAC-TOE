@@ -60,3 +60,17 @@ function jugar(valor){
 }
     
 });
+ //$('#boton').click(function(){
+   //         $('.one')[0].reset();
+ //});
+
+$(document).ready(function() {
+        $('.btn-link').click(function() {
+            location.reload();
+     });
+});
+$(document).ready(function() {
+        $('.btn-link').click(function() {
+            location.reload();
+     });
+});
